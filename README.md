@@ -1,0 +1,1 @@
+# klaytnwalletstatic
